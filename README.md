@@ -1,6 +1,6 @@
 # AutoPrep-SIH-22
 
-AUTOPREP - An Automated Data Preparation Tool
+AUTOPREP - Automated Data Preparation Tool
 </br>
 # Smart India Hackathon 2022 (SIH'22)
 </br>
