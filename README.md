@@ -3,6 +3,9 @@
 AUTOPREP - Automated Data Preparation Tool
 </br>
 # Smart India Hackathon 2022 (SIH'22)
+<b><i>THEME - No problem is too big... No idea is too small</b></i>
+</br>
+</br>
 ![SIH2022-white-logo](https://user-images.githubusercontent.com/103782863/222292929-1dcd8417-f32f-4a9b-9d78-557c1f6814c7.png)
 
 </br>
