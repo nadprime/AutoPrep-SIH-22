@@ -3,6 +3,8 @@
 AUTOPREP - Automated Data Preparation Tool
 </br>
 # Smart India Hackathon 2022 (SIH'22)
+![sliderbannerM32](https://user-images.githubusercontent.com/103782863/222292997-1b1b68cb-6ef7-4dbc-8c6d-7921da238f59.jpg)
+</br>
 <b><i>THEME - No problem is too big... No idea is too small</b></i>
 </br>
 </br>
@@ -22,8 +24,6 @@ Information Technology (MEITY)</b>
 </i>
 </br>
 </br>
-
-![sliderbannerM32](https://user-images.githubusercontent.com/103782863/222292997-1b1b68cb-6ef7-4dbc-8c6d-7921da238f59.jpg)
 
 </br>
 
