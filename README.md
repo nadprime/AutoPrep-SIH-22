@@ -26,6 +26,12 @@ Information Technology (MEITY)</b>
 ![sliderbannerM32](https://user-images.githubusercontent.com/103782863/222292997-1b1b68cb-6ef7-4dbc-8c6d-7921da238f59.jpg)
 
 </br>
+
+![presentation](https://user-images.githubusercontent.com/103782863/232248278-b76b883e-f5fa-4347-9a10-37b50532c5ca.png)
+
+</br>
+
+</br>
 My Team SIGSEGV was selected for GRAND FINALE Of SIH 2022.
 </br>
 We sucessfully developed a complete solution in 36 hrs of non-stop coding.   
